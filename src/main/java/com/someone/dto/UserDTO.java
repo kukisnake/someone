@@ -1,4 +1,6 @@
-package com.example.accessingdatamysql;
+package com.someone.dto;
+
+import com.someone.entity.Hobby;
 
 import java.util.List;
 

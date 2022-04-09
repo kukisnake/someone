@@ -1,4 +1,4 @@
-package com.example.accessingdatamysql;
+package com.someone.entity;
 
 import javax.persistence.*;
 import java.util.Date;

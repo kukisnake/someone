@@ -1,4 +1,4 @@
-package com.example.accessingdatamysql;
+package com.someone.dto;
 
 public class HobbyDTO {
     private String name;
